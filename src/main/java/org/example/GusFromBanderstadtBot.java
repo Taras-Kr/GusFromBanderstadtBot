@@ -27,7 +27,7 @@ public class GusFromBanderstadtBot extends TelegramLongPollingBot {
         return "GusFromBanderstadtBot";
     }
 
-    //@Override
+    @Override
     public String getBotToken() {
         return "6069648040:AAFKVunqBzZsPtsPxpoGMYg3eVGisNX6lpI";
     }
